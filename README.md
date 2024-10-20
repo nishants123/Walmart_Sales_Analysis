@@ -12,7 +12,7 @@ Task:-
 
 1.Clean and preprocess the sales data to handle missing values, remove duplicates, and eliminate outliers to ensure accurate analysis.
 
-2.Perform exploratory data analysis to uncover trends and patterns across cities, branches, products, and customer demographics.
+2.Perform exploratory data analysis (EDA) to uncover patterns and trends in the sales data for the three-month period.
 
 3.Visualize sales performance using charts and graphs to effectively communicate findings.
 
