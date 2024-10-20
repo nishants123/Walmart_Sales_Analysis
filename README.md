@@ -10,13 +10,15 @@ The objective is to analyze sales data from January to March to identify trends,
 
 Task:-
 
-1.Clean and preprocess the sales data to handle missing values, remove duplicates, and eliminate outliers to ensure accurate analysis.
+1.Gathered the Walmart Sales dataset, ensuring it contains relevant columns for analysis.
 
-2.Perform exploratory data analysis (EDA) to uncover patterns and trends in the sales data for the three-month period.
+2.Clean and preprocess the sales data to handle missing values, remove duplicates, and eliminate outliers to ensure accurate analysis.
 
-3.Visualize sales performance using charts and graphs to effectively communicate findings.
+3.Perform exploratory data analysis (EDA) to uncover patterns and trends in the sales data for the three-month period.
 
-4.Provide actionable recommendations based on data insights to improve sales in April.
+4.Visualize sales performance using charts and graphs to effectively communicate findings.
+
+5.Provide actionable recommendations based on data insights to improve sales in April.
 
 Insights:-
 
