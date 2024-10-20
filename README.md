@@ -2,7 +2,7 @@
 
 Project Overview:-
 
-This project involves analyzing Walmart sales data for the months of January, February, and March. The goal is to provide insights and actionable recommendations to increase sales in April by identifying key sales trends across cities, branches, product categories, and customer demographics. Python libraries such as Pandas, Matplotlib, and Seaborn were used for data cleaning, analysis, and visualization.
+  This project involves analyzing Walmart sales data for the months of January, February, and March. The goal is to provide insights and actionable recommendations to increase sales in April by identifying key      sales trends across cities, branches, product categories, and customer demographics. Python libraries such as Pandas, Matplotlib, and Seaborn were used for data cleaning, analysis, and visualization.
 
 Problem Statement:-
 
