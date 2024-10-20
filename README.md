@@ -77,13 +77,17 @@ Recommendations:-
 
 Used Technology:-
 
-• Python: For data manipulation and analysis.
+• Python
 
-• Pandas: Used for data cleaning, aggregation, and transformation.
+• Pandas
 
-• Matplotlib & Seaborn: For visualizing sales trends and patterns.
+• NumPy
 
-• Jupyter Notebook: The environment used for coding, documentation, and sharing analysis.
+• Matplotlib 
+
+• Seaborn
+
+• Jupyter Notebook
 
 Conclusion:-
 
