@@ -16,9 +16,11 @@ Task:-
 
 3.Perform exploratory data analysis (EDA) to uncover patterns and trends in the sales data for the three-month period.
 
-4.Visualize sales performance using charts and graphs to effectively communicate findings.
+4.Correlation Analysis: Analyzed the correlation matrix to identify relationships between variables.
 
-5.Provide actionable recommendations based on data insights to improve sales in April.
+5.Visualize sales performance using charts and graphs to effectively communicate findings.
+
+6.Provide actionable recommendations based on data insights to improve sales in April.
 
 Insights:-
 
@@ -52,6 +54,11 @@ Insights:-
 
 • Low sales occur at 14:00, 16:00, 17:00, and 20:00.
 
+5.correlation Analysis:
+
+Revenue is primarily driven by quantity sold (0.71) and unit price (0.63), indicating that increasing sales volume and pricing can significantly boost revenue. Ratings (-0.036) and hours (-0.0027) have negligible impact on revenue.
+
+
 Recommendations:-
 
 1.Promotional Campaigns:
@@ -75,7 +82,15 @@ Recommendations:-
 
 5.Time-Based Strategies:
 
-•Run flash sales during peak hours and implement "happy hour" promotions during low sales periods to drive traffic.
+• Run flash sales during peak hours and implement "happy hour" promotions during low sales periods to drive traffic.
+
+6.Focus on Increasing Quantity Sold:
+
+• Since Quantity has the strongest positive impact on Revenue, driving more sales volume through marketing, promotions, or bundling could lead to significant revenue growth.
+
+7.Collect Feedback:
+
+• Use surveys or feedback forms to understand customer preferences and address any concerns about underperforming products. Adjust marketing strategies based on this input.
 
 Used Technology:-
 
